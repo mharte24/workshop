@@ -22,7 +22,11 @@ Sitting down to lessons - no more time for tricks.
 Five growing girls, from Fifteen to Eleven:  
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
-## Second Verse
+A voice said, Look me in the stars  
+And tell me truly, men of earth,  
+If all the soul-and-body scars  
+Were not too much to pay for birth.  
+-Robert Frost  
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
 ## Third Verse
